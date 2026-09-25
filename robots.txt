@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.vajatma.cn/sitemap.xml
